@@ -28,3 +28,4 @@ jobs:
       artifactname: HealthGPT.xcresult
       fastlanelane: beta
       setupsigning: true
+name: iOS App TestFlight Deployment.updated
